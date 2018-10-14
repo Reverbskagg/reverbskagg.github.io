@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <generator uri="http://jekyllrb.com" version="3.8.4">Jekyll</generator>
+  
+  
+  <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
+  <updated>2018-10-14T19:13:21+02:00</updated>
+  <id>http://localhost:4000//</id>
+
+  
+    <title type="html">Reverbskägg</title>
+  
+
+  
+    <subtitle>About electronics, programming, music.</subtitle>
+  
+
+  
+
+  
+  
+    <entry>
+      
+      <title type="html">Repairing an I***l SSD</title>
+      
+      
+      <link href="http://localhost:4000/2018/10/07/repair-intel-ssd/" rel="alternate" type="text/html" title="Repairing an I***l SSD" />
+      
+      <published>2018-10-07T17:11:00+02:00</published>
+      <updated>2018-10-07T17:11:00+02:00</updated>
+      <id>http://localhost:4000/2018/10/07/repair-intel-ssd</id>
+      <content type="html" xml:base="http://localhost:4000/2018/10/07/repair-intel-ssd/">&lt;p&gt;Hurr durr&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+
+      
+        <category term="hardware" />
+      
+        <category term="pc" />
+      
+        <category term="firmware" />
+      
+        <category term="hax" />
+      
+
+      
+
+      
+        <summary type="html">Hurr durr</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">Welcome to Reverbskagg!</title>
+      
+      
+      <link href="http://localhost:4000/2018/10/07/welcome-to-jekyll/" rel="alternate" type="text/html" title="Welcome to Reverbskagg!" />
+      
+      <published>2018-10-07T16:52:36+02:00</published>
+      <updated>2018-10-07T16:52:36+02:00</updated>
+      <id>http://localhost:4000/2018/10/07/welcome-to-jekyll</id>
+      <content type="html" xml:base="http://localhost:4000/2018/10/07/welcome-to-jekyll/">&lt;p&gt;This is the first blog post. Oh my.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+
+      
+        <category term="blag" />
+      
+
+      
+
+      
+        <summary type="html">This is the first blog post. Oh my.</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+</feed>

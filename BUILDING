@@ -1,0 +1,3 @@
+apt install ruby-2.5 ruby-dev
+gem install bundler
+bundle install
